@@ -4,15 +4,15 @@
 ![6](https://github.com/satyansh-mittal/Student-Registration-System/assets/104019813/89777ae8-dd93-4931-b672-29e15741d070)
 
 ## Overview
-This repository contains a Student Registration System implemented in [programming language]. The system allows students to register for courses, view their schedules, and provides administrators with tools to manage student information and course offerings.
+This repository contains a Student Registration System implemented in JAVA. The system allows students to register for courses, view their schedules, and provides administrators with tools to manage student information and course offerings.
 
 ## Features
 - **Student Registration:**
-  - Students can register for courses based on availability and prerequisites.
-- **Course Management:**
-  - Administrators can add, modify, or remove courses from the system.
+  - Students can register for courses.
+- **Record Management:**
+  - Administrators can add, modify, or remove records from the system.
 - **Student Information:**
-  - View and update student information, including schedules and course history.
+  - View and update student information.
 
 ## Screenshots
 ![2](https://github.com/satyansh-mittal/Student-Registration-System/assets/104019813/e0598029-af90-46bd-a189-3b9e72ad9598)
